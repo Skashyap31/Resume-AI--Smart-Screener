@@ -3,7 +3,9 @@
 An intelligent Resume Screening Web App built using Streamlit and Generative AI, designed to automate candidate evaluation by matching resumes with job descriptions.
 
 # 🚀 Features
+
 📂 Upload resumes (PDF/DOCX)
+
 🧠 AI-powered resume analysis
 📊 Match score with job description
 🔍 Keyword extraction & skill matching
